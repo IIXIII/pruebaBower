@@ -1,0 +1,17 @@
+{
+  "name": "Prueba",
+  "authors": [
+    "Oscar Montaño Ayala <oayala@nuxiba.com>"
+  ],
+  "description": "prueba b",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
